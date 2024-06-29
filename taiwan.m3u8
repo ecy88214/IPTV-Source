@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 group-title="台灣台" tvg-id="TVBS News" tvg-logo="https://i.imgur.com/171lwfg.png",TVBS News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="TVBS新聞台HD" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312220208325041_97.png",[HD]TVBS新聞台
+https://stream.freetv.fun/3b03cc3526a567aa659a19056497b9e0b4ea1d3419f7eafcfab73b77b7c51332.ctv
+#EXTINF:-1 group-title="台灣台" tvg-id="民視新聞台" tvg-logo="https://i.imgur.com/j9Gebr5.png",民視新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="中天新聞台" tvg-logo="https://i.imgur.com/fEUmRST.png",中天新聞台
+https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="寰宇新聞台" tvg-logo="https://i.imgur.com/Q1Mrvjj.png",寰宇新聞台 (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="寰宇新聞台" tvg-logo="https://i.imgur.com/Q1Mrvjj.png",寰宇新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="鏡新聞" tvg-logo="https://mol.mcu.edu.tw/wp-content/uploads/2022/12/maxresdefault-696x392.jpeg",鏡新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="三立新聞台" tvg-logo="https://i.imgur.com/NaOUWKf.png",三立新聞台
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="台視新聞台" tvg-logo="https://i.imgur.com/AfkK0gv.png",TTV News (台視新聞台)
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="台視新聞HD" tvg-logo="https://i.imgur.com/AfkK0gv.png",台視新聞HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="東森新聞HD" tvg-logo="https://i.imgur.com/uFDkOhV.png",東森新聞HD
+https://stream.freetv.fun/4e8297ed0610c91e855ddb69d24344baa6b732dd2d1b24ac2e0a71a3d39ca41c.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="東森美洲" tvg-logo="https://i.imgur.com/uFDkOhV.png",東森美洲
+https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="東森財經新聞" tvg-logo="https://i.imgur.com/uFDkOhV.png",東森財經新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="非凡新闻" tvg-logo="https://epg.pw/media/images/channel/2016/06/17/large/20160617165249161501_56.png",[HD]非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 group-title="台灣台" tvg-id="中視新聞HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Chinatvnews.jpg/250px-Chinatvnews.jpg",中視新聞HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="中視" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/22/CTV_text.png/200px-CTV_text.png",中視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="華視" tvg-logo="https://epg.pw/media/images/channel/2020/07/26/large/20200726143140379428_88.jpg",華視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="華視綜藝",華視綜藝
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="SERiNews",SERiNews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="TVBS亚洲台",TVBS亚洲台
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="八大戲劇HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png",[BD]八大戲劇台HD
+https://stream.freetv.fun/502ec7a7075f723ec1288fb463708460e8fa0d4f7932812fe508aee001ccc04a.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="八大電視",八大電視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="TVBS歡樂臺HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162440472209_35.png",[BD]TVBS歡樂臺HD
+https://stream.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
+#EXTINF:-1 group-title="台灣台" tvg-id="八大綜合" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720154712065553_65.png,[HD]八大综合
+https://stream.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="東森超視" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png",[HD]東森超視
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="台灣台" tvg-id="緯來日本" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105459178241_22.png",[SD]緯來日本
+rtmp://220.130.201.73/sat/tv771
+#EXTINF:-1 group-title="台灣台" tvg-id="緯來育樂" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164810377610_27.png",[BD]緯來育樂
+rtmp://220.130.201.73/sat/tv701
+#EXTINF:-1 group-title="台灣台" tvg-id="緯來體育" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png",[SD]緯來體育
+rtmp://220.130.201.73/sat/tv721
+#EXTINF:-1 group-title="台灣台" tvg-id="ELEVEN1台",ELEVEN1台
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="台灣台" tvg-id="ELEVEN2台",ELEVEN2台
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="台灣台" tvg-id="MOMO TV HD",MOMO TV HD
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="台灣台" tvg-id="Now News",Now News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="ANIMAX",ANIMAX
+https://stream.freetv.fun/33bf2209b2aebeedf14827d3143e9ba85e9eadaad3b87eacf3212b735014e328.m3u8
+#EXTINF:-1 group-title="台灣台" tvg-id="亞洲旅遊台",亞洲旅遊台
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="鳯凰資訊",鳯凰資訊
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="鳯凰新聞",鳯凰新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="國際台" tvg-id="新唐人亞太台",新唐人亞太台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+#EXTINF:-1 group-title="國際台" tvg-id="環球電視",環球電視
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
