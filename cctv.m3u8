@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
+http://27.17.146.251:9100/rtp/239.69.1.123:10376
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
+https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5体育BD" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育BD
+https://stream.freetv.fun/ee4404dbad7e8c48067387ed813da3de9d3b9e629074e0f9e1254a483a2a35db.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+体育赛事
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+体育赛事
+http://27.17.146.251:9100/rtp/239.254.96.234:9484
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+体育赛事
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/2300.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5+体育赛事BD" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+体育赛事BD
+https://stream.freetv.fun/3b0a7f3a7d4adfa7a3e04ade2fe3174f640dcb3f3ecfa2c615198556886329e6.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-13新聞" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13新聞
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16奧林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奧林匹克
+https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16奧林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奧林匹克
+http://23.237.196.98:680/live/CCTV16HD/hls.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16奧林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奧林匹克
+http://27.17.146.251:9100/rtp/239.69.1.247:11124
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16奧林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奧林匹克
+https://stream.freetv.fun/8327af845ca6270bd33c54b371d985ad2efe1c222ead1ee9de91c9b806d567af.ctv
