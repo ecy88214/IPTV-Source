@@ -9,5 +9,5 @@ Let us work together to promote the healthy development of live broadcast source
 
 <a href="https://paypal.me/PaoYanC">
   <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 20% !important;width: 20% !important;">
-</a> <br>
-<a href="https://www.buymeacoffee.com/ecy88214" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+</a><br>
+<a href="https://www.buymeacoffee.com/ecy88214" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20% !important;width: 20% !important;"></a>
